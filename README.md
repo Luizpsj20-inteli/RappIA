@@ -27,20 +27,16 @@ Segundo a companhia, mais entregadores ("RT"s) estão saindo da plataforma por m
 |--> documentos<br>
   &emsp;| T3_G1_Modelo_Preditivo_Rappi.pdf<br>
 |--> src<br>
-  &emsp;|--> sprint-1<br>
-  &emsp;|--> sprint-2<br>
-  &emsp;|--> sprint-3<br>
-  &emsp;|--> sprint-4<br>
-  &emsp;|--> sprint-5<br>
+  &emsp;|--> sprints-anteriores
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto.
+- <b>documentos</b>: aqui estão todos os documentos do projeto.
 
-- <b>src</b>: nesta pasta encontra-se todo o código fonte do modelo preditivo, divido conforme as sprints.
+- <b>src</b>: nesta pasta encontra-se todo o código fonte do modelo preditivo.
 
 ## 💻 Configuração para desenvolvimento
 
@@ -60,6 +56,9 @@ Instruções específicas podem ser encontradas em cada notebook individual.
     * Testes iniciais com modelos de "Machine Learning"
 * 4.1 - 30/09/2022
     * Finalização dos testes e seleção do modelo final
+* 5.0 - 06/10/2022
+    * Conclusão da documentação e do modelo preditivo
+
 
 ## 📋 Licença/License
 
