@@ -25,8 +25,10 @@ Segundo a companhia, mais entregadores ("RT"s) estão saindo da plataforma por m
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;| T3_G1_Modelo_Preditivo_Rappi.pdf<br>
-|--> src<br>
+  &emsp;| T3_G1_V5_Predictive_Model_Document.docx<br>
+  &emsp;| T3_G1_V5_Predictive_Model_Document.pdf<br>
+
+|--> notebooks<br>
   &emsp;|--> sprints-anteriores
 | readme.md<br>
 
@@ -38,11 +40,12 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>src</b>: nesta pasta encontra-se todo o código fonte do modelo preditivo.
 
-## 💻 Configuração para desenvolvimento
+## 💻 Execução dos projetos
 
-Os arquivos .ipynb na pasta "src" devem ser clonados localmente e executavos na plataforma [Google Colaboratory](https://colab.research.google.com/).
+Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
 
-Instruções específicas podem ser encontradas em cada notebook individual.
+Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
+> Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
 
@@ -59,10 +62,10 @@ Instruções específicas podem ser encontradas em cada notebook individual.
 * 5.0 - 06/10/2022
     * Conclusão da documentação e do modelo preditivo
 
-
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="">Modelo Preditivo de Churn da Rappi</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="">Grupo RappIA: Alysson Cordeiro, Bruno Moitinho Leão, Frederico Schur, Israel Carvalho, Luiz Carlos da Silva Júnior, Stefano Tosi Butori</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/InteliProjects">Inteli</a> by <span property="cc:attributionName">Inteli, Alysson Cordeiro, Bruno Moitinho Leão, Frederico Schur, Israel Carvalho, Luiz Carlos da Silva Júnior e Stefano Tosi Butori, is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
