@@ -29,7 +29,7 @@ Segundo a companhia, mais entregadores ("RT"s) estão saindo da plataforma por m
   &emsp;| T3_G1_V5_Predictive_Model_Document.pdf<br>
 
 |--> notebooks<br>
-  &emsp;|--> sprints-anteriores
+  &emsp;|--> sprints-anteriores <br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
